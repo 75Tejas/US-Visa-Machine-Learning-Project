@@ -1,2 +1,2 @@
-# US-Visa-Machine-Learning
+# US-Visa-Approval-Prediction
 MLOPs Production Level Machine Learning Project 
